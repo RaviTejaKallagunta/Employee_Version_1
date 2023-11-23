@@ -1,0 +1,1 @@
+export const employeeArray : {name:string,department:string,salary:number}[] =[]; 
